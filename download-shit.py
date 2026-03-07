@@ -2,12 +2,10 @@ import argparse
 import json
 import logging
 import math
-import random
-import time
 from datetime import UTC, datetime
 from pathlib import Path
 
-import requests
+from dl_utils import download_pdf, request_url
 from fake_useragent import UserAgent
 
 ZONE = ["latrine", "septic", "stone", "sediment"]
@@ -15,47 +13,6 @@ SORT_KEY = ["newest", "highest_rated", "most_rated", "hottest"]
 API_URL = "https://api.shitjournal.org/api/articles/?zone={zone}&sort={sort}&discipline=all&page={page}&limit={limit}"
 PDF_URL = "https://files.shitjournal.org/{id}.pdf"
 KEY_ID = "id"
-
-
-def random_sleep(max_delay: float = 3.0, min_delay: float = 0.1):
-    delay = random.random() * max_delay + min_delay
-    logging.debug(f"Random sleep = {delay:.3f}")
-    time.sleep(delay)
-
-
-def request_json(url: str, headers: dict) -> None | dict:
-    logging.info(f"Request = {url}")
-    try:
-        res = requests.get(url, headers=headers)
-        random_sleep()
-        if res.status_code != 200:
-            logging.warning("Error code = {res.status_code}")
-            return None
-        return res.json()
-    except Exception as e:
-        logging.error(f"request failed, {e}")
-    return None
-
-
-def download_pdf(url: str, save_file: str, headers: dict, chunk_size=8192):
-    logging.info(f"Request = {url}")
-    save_parent = Path(save_file).parent
-    if not save_parent.exists():
-        save_parent.mkdir(parents=True)
-
-    try:
-        with requests.get(url, stream=True, headers=headers) as res:
-            res.raise_for_status()
-            random_sleep(5, 2)
-            # total_size = int(res.headers.get('content-length', 0))
-            with open(save_file, "wb") as f:
-                for chunk in res.iter_content(chunk_size=chunk_size):
-                    if chunk:
-                        f.write(chunk)
-            return True
-    except Exception as e:
-        logging.error(f"request failed, {e}")
-    return False
 
 
 def download_api_data(save_file, key, sort_key, limit=10, force=False, page_limit=-1):
@@ -68,7 +25,7 @@ def download_api_data(save_file, key, sort_key, limit=10, force=False, page_limi
             config = json.load(f)
 
     url = API_URL.format(zone=key, page=1, sort=sort_key, limit=limit)
-    result = request_json(url, headers)
+    result = request_url(url, headers, is_json=True)
     if not result:
         return
 
@@ -80,8 +37,8 @@ def download_api_data(save_file, key, sort_key, limit=10, force=False, page_limi
     # pages = result['total_pages']
     pages = math.ceil(count / limit)
     data_list = result["data"]
-    max_pages = min(pages + 1, page_limit) if page_limit > 0 else pages + 1
-    for page in range(2, max_pages):
+    max_pages = min(pages, page_limit) if page_limit > 0 else pages
+    for page in range(2, max_pages + 1):
         url = API_URL.format(zone=key, page=page, sort=sort_key, limit=limit)
         result = request_json(url, headers)
         if result and result.get("data"):
@@ -126,7 +83,7 @@ def process_pdf(config_dir, output_dir, limit):
     count = 0
     for zone in ZONE:
         config_file = Path(config_dir, f"{zone}.json")
-        if not Path(config_file).exists():
+        if not config_file.exists():
             continue
         if limit > 0 and count > limit:
             break
@@ -156,11 +113,11 @@ if __name__ == "__main__":
     parser.add_argument("--pdf", type=str, default="pdf")
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--pdf-limit", type=int, default=-1)
-    parser.add_argument("--pages", type=int, default=-1)
+    parser.add_argument("--page-limit", type=int, default=-1)
     parser.add_argument("--force", action="store_true")
 
     args = parser.parse_args()
     logging.info(f"args = {args}")
 
-    process_config(args.config, args.limit, args.force, args.pages)
+    process_config(args.config, args.limit, args.force, args.page_limit)
     process_pdf(args.config, args.pdf, args.pdf_limit)
