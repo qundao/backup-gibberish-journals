@@ -1,0 +1,253 @@
+{
+  "update": "2026-03-09T01:08:07+0000",
+  "count": 13,
+  "data": [
+    {
+      "id": "3c9a4e35-b955-4f8a-a777-3c4b20023141",
+      "title": "《基于数字生命蜂群与跨位面潜入调查的卡池概率实证研究》",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-05T12:18:00.765622Z",
+      "rating_count": 41,
+      "avg_score": 3.75609756097561,
+      "weighted_score": 3.7828830066086856,
+      "comment_count": 0,
+      "author": {
+        "id": "a29d00dd-31cc-4fbb-ac6c-e4b93b57d3b6",
+        "display_name": "我本是我沐",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8c20ddbc-97f7-421c-b4f0-19780d251af8",
+      "title": "心性本体与圆融之道：《太上守心妙经》的思想体系、跨文明对话与现代性价值研究与思考",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-04T15:26:32.884916Z",
+      "rating_count": 38,
+      "avg_score": 3.789473684210526,
+      "weighted_score": 3.8582029755972513,
+      "comment_count": 0,
+      "author": {
+        "id": "321bb851-bb5c-4e33-bc39-6859e1e66472",
+        "display_name": "jiang殒命",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8e448d3d-44df-499a-85d6-c529c6c6f00f",
+      "title": "认真文献综述：箱庭（Hokoniwa）理论起源",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T22:27:06.792067Z",
+      "rating_count": 98,
+      "avg_score": 3.316326530612245,
+      "weighted_score": 3.326117130726955,
+      "comment_count": 0,
+      "author": {
+        "id": "d8e5444d-f318-4f0d-bf60-cd7637621c73",
+        "display_name": "DICK KINSON",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "14ce3ae3-d114-45b1-8c6b-438e5f4726b5",
+      "title": "舔狗经济学——关于男性对女性的追求而陷入沉没成本陷阱的非理性花销",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T19:17:50.504707Z",
+      "rating_count": 71,
+      "avg_score": 3.267605633802817,
+      "weighted_score": 3.368933016760868,
+      "comment_count": 0,
+      "author": {
+        "id": "cf064f7e-31e3-4545-ab36-e38583f136a7",
+        "display_name": "构思一坨",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ebf14364-ae66-480d-a590-4a684132ee15",
+      "title": "雷霆所孕，风暴所生：司空震与风暴龙王亲子关系的叙事考古学研究 ——基于扎根理论的王者荣耀玩家集体想象分析",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T19:04:48.885564Z",
+      "rating_count": 91,
+      "avg_score": 3.4835164835164836,
+      "weighted_score": 3.5119539040074788,
+      "comment_count": 0,
+      "author": {
+        "id": "d62348ba-d9e9-4a8d-9d95-bf1b4c728752",
+        "display_name": "一川烟柳含风",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "c01b21cd-f122-4b0f-98ab-318f8a61da29",
+      "title": "论海绵宝宝中派大星真实存在性大胆论证",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T17:35:48.119425Z",
+      "rating_count": 45,
+      "avg_score": 3.3777777777777778,
+      "weighted_score": 3.413593623837679,
+      "comment_count": 0,
+      "author": {
+        "id": "09355456-8941-4b4c-92dd-8016c74c48aa",
+        "display_name": "加V看蟹黄堡秘方",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8467626b-bffd-49c0-aa5c-49d5f4ca09c2",
+      "title": "数码相机图像噪点的起源探究",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T16:51:29.573490Z",
+      "rating_count": 43,
+      "avg_score": 3.4651162790697674,
+      "weighted_score": 3.5383741207784656,
+      "comment_count": 0,
+      "author": {
+        "id": "f15682b8-8c4b-4285-a011-dba08c0ffbf4",
+        "display_name": "浪漫的真爱",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "9d0d2321-f577-40a2-92f8-bd4f0b6a5277",
+      "title": "论德语长复合词对思维负担的指数级压迫机 制——以 “Rindfleischetikettierungsüberwachungsaufg abenübertragungsgesetz”为例",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T16:23:37.830642Z",
+      "rating_count": 48,
+      "avg_score": 3.6041666666666665,
+      "weighted_score": 3.5839125116876644,
+      "comment_count": 0,
+      "author": {
+        "id": "c2ac9be9-25b2-44f1-b5a8-c89c3bd5b1b9",
+        "display_name": "阿泓",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "7f5b15f0-411b-4832-a704-860a186f7df7",
+      "title": "学校层次差异下高中表白墙内容生态对比研究",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "law_social",
+      "created_at": "2026-03-03T16:08:58.733395Z",
+      "rating_count": 65,
+      "avg_score": 3.3076923076923075,
+      "weighted_score": 3.363257124195316,
+      "comment_count": 0,
+      "author": {
+        "id": "30e4c1da-7ac7-424f-824c-b7ef1a536a41",
+        "display_name": "SAwassnn",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "50285bc5-c797-4995-9dcd-2d9278cd0529",
+      "title": "基于微积分的人类粪便体积计算及其潜 在应用价值",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T14:51:37.389444Z",
+      "rating_count": 31,
+      "avg_score": 3.5806451612903225,
+      "weighted_score": 3.6356386197851633,
+      "comment_count": 0,
+      "author": {
+        "id": "dd2b251e-e955-45b5-8b06-cec028400f2f",
+        "display_name": "大肠杆菌",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "bbef56b2-fd2d-4dcc-80c0-3f92aae84444",
+      "title": "蹲便与坐便两种方便策略下可控核聚变的实现可行性研究",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T13:25:30.854397Z",
+      "rating_count": 30,
+      "avg_score": 2.8666666666666667,
+      "weighted_score": 3.1305856536347774,
+      "comment_count": 0,
+      "author": {
+        "id": "ecb16f6a-5a49-4e22-bcff-39ef34b211a7",
+        "display_name": "Mrs.艾拉士.德卞泰",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "493cd588-de5a-4654-9532-028167f986c5",
+      "title": "基于朋友圈文本内容与行为特征在个人性格侧写中的应用探析研究",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T12:34:23.565397Z",
+      "rating_count": 35,
+      "avg_score": 3.3714285714285714,
+      "weighted_score": 3.461436474241543,
+      "comment_count": 0,
+      "author": {
+        "id": "f7f70372-a595-4824-bd35-8bd4e1d59f3e",
+        "display_name": "Lyxxx",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a4893cd9-0a22-4528-96dc-7e472274aa46",
+      "title": "变质香蕉比正常香蕉更通便的机制研究与临床观察",
+      "tag": "meme",
+      "zones": "sediment",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "medical",
+      "created_at": "2026-03-03T10:55:44.052993Z",
+      "rating_count": 30,
+      "avg_score": 3.7333333333333334,
+      "weighted_score": 3.6957958606045502,
+      "comment_count": 0,
+      "author": {
+        "id": "2d4168d6-c3f4-4c3b-9f1a-35c1ec28caea",
+        "display_name": "虫且蘸酱裹厕纸",
+        "avatar_url": null
+      }
+    }
+  ]
+}

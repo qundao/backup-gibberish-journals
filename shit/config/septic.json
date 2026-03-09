@@ -1,6 +1,6 @@
 {
-  "update": "2026-03-07T10:48:23+0000",
-  "count": 29,
+  "update": "2026-03-09T01:08:01+0000",
+  "count": 103,
   "data": [
     {
       "discipline": "law_social",
@@ -355,6 +355,25 @@
       }
     },
     {
+      "id": "62adff7a-254c-4db8-8af4-e97f3ae7efd6",
+      "title": "性压抑与道德推脱对理科实验室双配偶地下恋情的影响",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-04T08:51:38.560576Z",
+      "rating_count": 49,
+      "avg_score": 4.244897959183674,
+      "weighted_score": 4.23697373617746,
+      "comment_count": 0,
+      "author": {
+        "id": "beca32aa-ed2f-4544-9921-4444edbf7806",
+        "display_name": "韩侂史",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "方便面复水过程中的时空弯曲效应——兼论“泡面三分钟”的相对论解释",
@@ -448,6 +467,44 @@
         "social_media": null,
         "banned_until": null,
         "karma": 0
+      }
+    },
+    {
+      "id": "a5b1e25e-6834-48a0-83b1-57d9cbe66593",
+      "title": "Transformer 架构下的算法凝视与茧房建构：Tiktok“阴间内容” 推流的媒介文化研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-04T05:46:43.933216Z",
+      "rating_count": 36,
+      "avg_score": 4.138888888888889,
+      "weighted_score": 4.09761386682961,
+      "comment_count": 0,
+      "author": {
+        "id": "45fb7e0c-f7a6-4dd3-9afc-4249a28cd952",
+        "display_name": "AAA大运蒋哥（专跑国道）",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "6f351410-05e7-41e4-8a8a-c59ac57b8612",
+      "title": "王者荣耀全队麦开魔音对于五排召集及对局体验的影响研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-04T05:43:22.118454Z",
+      "rating_count": 45,
+      "avg_score": 4.155555555555556,
+      "weighted_score": 4.140674746227565,
+      "comment_count": 0,
+      "author": {
+        "id": "a9742973-56fb-43bd-9bb5-de5848f6eccb",
+        "display_name": "甘露糖",
+        "avatar_url": null
       }
     },
     {
@@ -547,6 +604,25 @@
       }
     },
     {
+      "id": "8b14ed56-c95c-49d2-8476-5d5effc1f1b6",
+      "title": "基于实证分析论证办公室工位与上班摸鱼时长成正比关系",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-04T03:19:13.580590Z",
+      "rating_count": 37,
+      "avg_score": 3.810810810810811,
+      "weighted_score": 3.8402928268173886,
+      "comment_count": 0,
+      "author": {
+        "id": "083ed73b-92f5-4fb5-a790-0e685abb574d",
+        "display_name": "工位摸鱼王",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "奶茶 “去冰三分糖” 固定选择行为与当代年轻人决策焦虑的关联性研究",
@@ -611,6 +687,44 @@
       }
     },
     {
+      "id": "20a8ba76-aee3-4945-bae1-c234d541f721",
+      "title": "消失的袜子现象：洗衣黑洞的统计和理论研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-04T01:15:36.087716Z",
+      "rating_count": 36,
+      "avg_score": 4.305555555555555,
+      "weighted_score": 4.286803056018798,
+      "comment_count": 0,
+      "author": {
+        "id": "c19a08ac-0f26-4e9b-bb42-a02c7206ec93",
+        "display_name": "shiting",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ff226291-a220-4917-90ef-21ce5867a3bc",
+      "title": "巴兰尼科夫之死﹣﹣网络亚文化\"梗\"向主 流政治谣言转化的传播机制研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "law_social",
+      "created_at": "2026-03-04T01:14:05.926808Z",
+      "rating_count": 40,
+      "avg_score": 4.275,
+      "weighted_score": 4.276469358873704,
+      "comment_count": 0,
+      "author": {
+        "id": "4c06800c-7b14-4a99-99db-2f47aa44cefc",
+        "display_name": "Родители Вячеслава Баранникова",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "基于“创伤性联结”理论的暗恋期矛盾情感分析——以“火鸡面效应”为隐喻模型的单案例phenomenological 研究",
@@ -640,6 +754,25 @@
         "social_media": null,
         "banned_until": null,
         "karma": 0
+      }
+    },
+    {
+      "id": "cddbde40-6f6b-4e5d-b355-515e89626b30",
+      "title": "不同年龄段的人体内答辩的数量与吃的食物的多少的关系",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T21:36:30.877596Z",
+      "rating_count": 32,
+      "avg_score": 4.28125,
+      "weighted_score": 4.274620373505587,
+      "comment_count": 0,
+      "author": {
+        "id": "037d3604-89f0-4cf8-8315-9aa059518467",
+        "display_name": "屎无潜力",
+        "avatar_url": null
       }
     },
     {
@@ -803,6 +936,44 @@
       }
     },
     {
+      "id": "92b63e71-5fd9-4ec0-89e5-ea0e922e619f",
+      "title": "“在我电脑上是好的”：论分布式系统故障排查中的不可知论与唯心主义倾向",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T19:14:53.175653Z",
+      "rating_count": 65,
+      "avg_score": 3.9076923076923076,
+      "weighted_score": 3.850979572582469,
+      "comment_count": 0,
+      "author": {
+        "id": "1f6e6dba-8359-4885-aa39-504bd24b2bfd",
+        "display_name": "赤石大王",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b6f4eaa4-db9e-4c52-b040-750e1b8a0c5c",
+      "title": "论事实胜利作为胜利条件的必要不充分性证明",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T19:11:43.689906Z",
+      "rating_count": 37,
+      "avg_score": 3.8378378378378377,
+      "weighted_score": 3.865292826817389,
+      "comment_count": 0,
+      "author": {
+        "id": "90073e74-1128-47c5-9ecb-d721a45ae7f2",
+        "display_name": "做份内事，有的放矢",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "抖音平台异性微信添加成功率的靶向提升体系构建与实证研究——基于个人多维度核心优势的全链路赋能",
@@ -867,6 +1038,139 @@
       }
     },
     {
+      "id": "ad8cd957-e1ca-4d15-a3fa-95aeb24148d5",
+      "title": "舔狗行为动力学：一个带迟滞、噪声与预算约束",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T18:48:35.610525Z",
+      "rating_count": 35,
+      "avg_score": 4.0,
+      "weighted_score": 4.016097712439357,
+      "comment_count": 0,
+      "author": {
+        "id": "c2180d5c-40ce-474a-9d50-bc636f0b71b1",
+        "display_name": "沸羊羊汤姆猫双面龟",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "de250b75-8c62-4dd4-ab34-e71e989f19b4",
+      "title": "基于能量守恒、量子力学所提出的玄学四大定律",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T18:29:22.824774Z",
+      "rating_count": 34,
+      "avg_score": 3.9705882352941178,
+      "weighted_score": 3.9895057587215015,
+      "comment_count": 0,
+      "author": {
+        "id": "df579ee4-01e2-45da-9141-6b7aa7e66927",
+        "display_name": "lazy dog",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ac3ba43b-d5a6-4380-96be-a63528f0ea2d",
+      "title": "大学早操对于早八课上睡眠质量关系的深度研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T18:21:20.603263Z",
+      "rating_count": 44,
+      "avg_score": 4.318181818181818,
+      "weighted_score": 4.26390256983399,
+      "comment_count": 0,
+      "author": {
+        "id": "f6950d73-2611-4cac-b6eb-8ee6c5248f88",
+        "display_name": "夜郎少女的梦",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b174da7d-1bc9-49c6-8757-2f8d158646c7",
+      "title": "基于学术平权与内容质量自治的S.H.I.T治理方案探讨",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "S.H.I.T社区治理1.0",
+      "discipline": "law_social",
+      "created_at": "2026-03-03T18:19:41.696025Z",
+      "rating_count": 42,
+      "avg_score": 4.404761904761905,
+      "weighted_score": 4.3717074541117995,
+      "comment_count": 0,
+      "author": {
+        "id": "5a20b166-150a-458b-9fe4-32f75a64bc68",
+        "display_name": "Wagner Zeno",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "3a138fa4-082d-4552-9126-b3e1a5651a1f",
+      "title": "教育价值的异质性与人力资本的多元体现——兼 论“好的 985”与大专的等值化思考",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T18:19:06.819993Z",
+      "rating_count": 39,
+      "avg_score": 3.8974358974358974,
+      "weighted_score": 3.9193265017308465,
+      "comment_count": 0,
+      "author": {
+        "id": "e1f5885d-03dd-4f19-b619-1d27cf1d5e99",
+        "display_name": "markspencer911",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "9640bf8f-5440-4ec1-a62a-1d489a0adb46",
+      "title": "从“鸡你太美”到“只因声波”：基于深度残差网络与混沌理论的顶呱呱表情包跨物种传播动力学研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T18:15:15.169528Z",
+      "rating_count": 34,
+      "avg_score": 4.294117647058823,
+      "weighted_score": 4.286803056018798,
+      "comment_count": 0,
+      "author": {
+        "id": "effdbdb2-b6f8-48cf-be9f-b52ce47f43bd",
+        "display_name": "传奇学术垃圾",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "bde4fabb-773f-4371-a7c0-d4c8fa17c68c",
+      "title": "成年男性离散胃肠释放事件的年龄依赖衰减模型研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T18:12:05.375084Z",
+      "rating_count": 42,
+      "avg_score": 3.9761904761904763,
+      "weighted_score": 3.991371401615457,
+      "comment_count": 0,
+      "author": {
+        "id": "932d1f27-3a66-47ca-87df-6410eccc0286",
+        "display_name": "战斗吧",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "导师署名的热力学第零定律：论学术食物链中挂名权的传递性与不可逆性",
@@ -899,6 +1203,25 @@
       }
     },
     {
+      "id": "670a4ae7-8479-49e5-b232-ecd133cbf8d2",
+      "title": "Attention Is All You Shit! 在恋爱关系中，注意力机制就是你所需要的一 切！",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T18:06:16.574830Z",
+      "rating_count": 40,
+      "avg_score": 3.925,
+      "weighted_score": 3.9417490993340376,
+      "comment_count": 0,
+      "author": {
+        "id": "dae6ecd6-c350-45b9-bbed-d6546663c447",
+        "display_name": "妍音之涵",
+        "avatar_url": null
+      }
+    },
+    {
       "discipline": "interdisciplinary",
       "comment_count": 0,
       "title": "人体在翻转状态下排泄物的动力学特征研究：基于初始角度与喷射力度的受力分析",
@@ -928,6 +1251,1089 @@
         "social_media": null,
         "banned_until": null,
         "karma": 0
+      }
+    },
+    {
+      "id": "cfe4c110-6fe0-4be3-8558-9abfca2a2758",
+      "title": "能量守恒定律与人际交往能量论相关性理论研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T17:58:56.031762Z",
+      "rating_count": 35,
+      "avg_score": 3.8857142857142857,
+      "weighted_score": 3.91083455454462,
+      "comment_count": 0,
+      "author": {
+        "id": "742161cd-e141-4d0e-b4e1-a3d72d34f1d9",
+        "display_name": "夜屿沉",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "7c5efe6f-eb9d-4969-abb2-d2fd8bf686ec",
+      "title": "鸡爪是鸡的“手”还是鸡的“脚”——从演化生物学和认知学角度分别对家鸡和人类的探究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T17:58:51.223593Z",
+      "rating_count": 43,
+      "avg_score": 4.186046511627907,
+      "weighted_score": 4.195720751652171,
+      "comment_count": 0,
+      "author": {
+        "id": "8b48b1e3-0a6b-4156-bfc5-94bb3201eb04",
+        "display_name": "粪发涂墙扎克王",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "51c4fd3f-c43a-4978-b565-87e704b4cbbd",
+      "title": "基于离散事件触发与“波塞冬”物理层干扰的教学楼公共卫生单元“占坑行为”抑制策略研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T17:51:01.125930Z",
+      "rating_count": 34,
+      "avg_score": 4.323529411764706,
+      "weighted_score": 4.313830083045826,
+      "comment_count": 0,
+      "author": {
+        "id": "6f39285c-7d0d-45e9-be86-d62fce43be7a",
+        "display_name": "风吹裤衩屁屁凉",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "1a7388b5-cb80-469d-9b69-2e3bcf828b65",
+      "title": "梗的市场价格：哈基米效应实证研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T17:48:36.583304Z",
+      "rating_count": 47,
+      "avg_score": 4.702127659574468,
+      "weighted_score": 4.658577355681158,
+      "comment_count": 0,
+      "author": {
+        "id": "aa276376-46f6-4852-aaf8-e2872fabd194",
+        "display_name": "baiheng_shit",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "84aff559-f122-4dfc-9bd3-4d033ab78b23",
+      "title": "规则写在前面，账号死在后面 ——基于“清雨毁号事件”的直播主权膨胀与舰长封建制崩塌研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "law_social",
+      "created_at": "2026-03-03T17:46:44.029101Z",
+      "rating_count": 42,
+      "avg_score": 4.142857142857143,
+      "weighted_score": 4.146926957171013,
+      "comment_count": 0,
+      "author": {
+        "id": "04b06eb2-a98c-4a93-9e8e-1952957ede2e",
+        "display_name": "1RAN",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f83bb7d7-6d52-4dee-9a7c-7eb8a5b64672",
+      "title": "就大卫·戴先生的防弹性能展开的实验验证与力学分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T17:46:06.165127Z",
+      "rating_count": 37,
+      "avg_score": 3.864864864864865,
+      "weighted_score": 3.890292826817389,
+      "comment_count": 0,
+      "author": {
+        "id": "e5c4af41-df75-4a3e-bf7d-0d8056122b3d",
+        "display_name": "当地一名比较英俊的年轻人",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "3d952754-3060-41ab-885c-5543fbc0aca8",
+      "title": "论夜间停电的拓扑学：一种负性基础设施的递归证明",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T17:45:00.206704Z",
+      "rating_count": 43,
+      "avg_score": 3.8372093023255816,
+      "weighted_score": 3.861124197232512,
+      "comment_count": 0,
+      "author": {
+        "id": "a22bfdbb-a30a-4d3d-897e-b2d84ab14a60",
+        "display_name": "damnnmad",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "387bbebf-b06f-4020-bee7-dbb146088f7c",
+      "title": "人类（Homo sapiens）等脊椎动物固体粪便物理参数的跨物种差异及关联因素研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "agriculture",
+      "created_at": "2026-03-03T17:34:39.789913Z",
+      "rating_count": 42,
+      "avg_score": 4.095238095238095,
+      "weighted_score": 4.102482512726568,
+      "comment_count": 0,
+      "author": {
+        "id": "33fff95c-10ed-4a21-ad09-af15f9eaa1a7",
+        "display_name": "Youki",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "535c34bb-a1b7-4999-820f-4f38490eb5da",
+      "title": "擎天柱骑加大版美洲大蠊排泄填满赛博坦星所需时长研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T17:31:06.849186Z",
+      "rating_count": 34,
+      "avg_score": 4.235294117647059,
+      "weighted_score": 4.232749001964745,
+      "comment_count": 0,
+      "author": {
+        "id": "844c7d8e-9e33-4b5a-8bbd-52cd3e47744a",
+        "display_name": "真理也许会过时，但垃圾永远是垃圾",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a1c298c4-fd9e-4ba6-aa08-53de8893c29e",
+      "title": "基于亚致死损伤累积与生存增加函数的无畏契约被闪反打模型",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T17:28:15.206851Z",
+      "rating_count": 33,
+      "avg_score": 4.242424242424242,
+      "weighted_score": 4.239214252019321,
+      "comment_count": 0,
+      "author": {
+        "id": "d80ddf6b-be55-4319-8da2-8fc31dafa716",
+        "display_name": "Duamu",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "5844d027-3ec6-464d-9845-977226c8919f",
+      "title": "量子态班委通知：大学生既看见了又没看懂的叠加态研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T17:17:20.830219Z",
+      "rating_count": 40,
+      "avg_score": 4.35,
+      "weighted_score": 4.324088406492751,
+      "comment_count": 0,
+      "author": {
+        "id": "3a207534-9e69-4337-ad8f-54eb38842ce1",
+        "display_name": "Mr晨",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "7711c607-f905-4df2-bfe6-241ec6785c7a",
+      "title": "蹲坑长度与挂壁面积的非加性线性关系及多 因素耦合模型",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T17:12:25.338958Z",
+      "rating_count": 38,
+      "avg_score": 4.5,
+      "weighted_score": 4.490292826817389,
+      "comment_count": 0,
+      "author": {
+        "id": "14d61237-7759-44a5-bb9b-153bf5c31b16",
+        "display_name": "JordanW",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "523755b8-9135-4bc7-921b-f82199bc2ef6",
+      "title": "递归式学术：基于大语言模型批改“由大语言模型生成的作业”的稳定性预测",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T17:09:29.016557Z",
+      "rating_count": 45,
+      "avg_score": 4.444444444444445,
+      "weighted_score": 4.429410689014491,
+      "comment_count": 0,
+      "author": {
+        "id": "975eddfd-6ec2-492a-83a0-4921d62dfca5",
+        "display_name": "SunnyW.",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "40792bec-ab0b-48e4-95e6-e298f5fb930b",
+      "title": "基于数值建模的S16 赛季薇恩输出装备优化研究——以《金 铲铲之战》为例",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T17:01:54.260093Z",
+      "rating_count": 36,
+      "avg_score": 4.305555555555555,
+      "weighted_score": 4.297736232633219,
+      "comment_count": 0,
+      "author": {
+        "id": "fb6da379-b446-49ea-8421-8bb4ecffa3c4",
+        "display_name": "shitman",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "4c55f35d-6da4-4c6c-bfad-337a469d984d",
+      "title": "拟南芥对高有机负荷（粪便）抗性表型的全基因组关联研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "agriculture",
+      "created_at": "2026-03-03T17:00:22.211802Z",
+      "rating_count": 44,
+      "avg_score": 3.840909090909091,
+      "weighted_score": 3.8640790015467137,
+      "comment_count": 0,
+      "author": {
+        "id": "e1b1ef15-c902-47c9-bd30-f180fa0543b3",
+        "display_name": "pluviophile",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ab2b26fa-559c-4b68-8f5a-6e9a9d6ee8ba",
+      "title": "关于男厕盲盒的五大基粪形成原因研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:57:17.342515Z",
+      "rating_count": 46,
+      "avg_score": 4.478260869565218,
+      "weighted_score": 4.461463532095828,
+      "comment_count": 0,
+      "author": {
+        "id": "effdbdb2-b6f8-48cf-be9f-b52ce47f43bd",
+        "display_name": "传奇学术垃圾",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f6e94f4e-1ceb-4d7f-a153-4b7033f45f7d",
+      "title": "出门前排便行为的仪式化建构与当代青年的应激性排泄机制研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:49:27.724402Z",
+      "rating_count": 36,
+      "avg_score": 4.305555555555555,
+      "weighted_score": 4.297736232633219,
+      "comment_count": 0,
+      "author": {
+        "id": "b4bbf1f1-2501-4947-aa04-f8e7aa72950a",
+        "display_name": "出门前必拉屎",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ca027ff7-932e-450f-9069-a1b2671f7f93",
+      "title": "守望先锋竞技场景下角色失败后的责任外溢与压力转嫁行为：基于神经网络模型与自我服务偏差的实证分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:43:28.043871Z",
+      "rating_count": 40,
+      "avg_score": 4.325,
+      "weighted_score": 4.316551466806874,
+      "comment_count": 0,
+      "author": {
+        "id": "1b6cf566-61ef-4a2f-b96a-ef5745cd1a01",
+        "display_name": "小朱诺诺",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "12b5bb94-52b1-4432-9220-ef917e7d33b3",
+      "title": "拉屎宝：面向视觉语言指令导航与语义记忆的便携清秽器自主寻踪系统研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T16:41:19.393120Z",
+      "rating_count": 30,
+      "avg_score": 4.233333333333333,
+      "weighted_score": 4.230657971899865,
+      "comment_count": 0,
+      "author": {
+        "id": "e0f84b4e-2d04-464d-b9e9-48b081ce95b4",
+        "display_name": "今州拉屎侠",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "810d56ec-9e87-4308-9ac4-e9d9af446414",
+      "title": "论“鼠鼠文化”在三角洲行动中的发展",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T16:37:37.398952Z",
+      "rating_count": 51,
+      "avg_score": 3.843137254901961,
+      "weighted_score": 3.8631798717165844,
+      "comment_count": 0,
+      "author": {
+        "id": "30ef336b-007e-4861-a1a6-7b2ed03c3a43",
+        "display_name": "七彩旋转大蟑螂",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "25dd9c55-78c1-4bb5-9fed-45632979ba89",
+      "title": "货币价值倒挂悖论：基于哈夫币锚定的伊朗主权货币贬值动力学研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:34:47.230592Z",
+      "rating_count": 40,
+      "avg_score": 4.225,
+      "weighted_score": 4.22352821099292,
+      "comment_count": 0,
+      "author": {
+        "id": "c4707ca4-a782-499e-ad11-673ed193bea6",
+        "display_name": "驻厕大史",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "3c6ae812-11a0-489f-b219-8b25a1456ea1",
+      "title": "基于声频刺激的人类发笑强度影响因素实证 研究——以屁声为研究载体",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:30:57.967073Z",
+      "rating_count": 33,
+      "avg_score": 3.9696969696969697,
+      "weighted_score": 3.989214252019321,
+      "comment_count": 0,
+      "author": {
+        "id": "0750243d-b509-4b0d-adf1-22a54b13ceba",
+        "display_name": "南北绿豆",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "1fb91ba0-ac87-49da-a39f-f462d81186f2",
+      "title": "被窝内外温差对人类晨起逃逸机制的非线性关系研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T16:27:48.171126Z",
+      "rating_count": 42,
+      "avg_score": 4.476190476190476,
+      "weighted_score": 4.458038068282123,
+      "comment_count": 0,
+      "author": {
+        "id": "5c242233-cc80-49d6-b47f-f0a26569de35",
+        "display_name": "吃范第一名",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f1a21081-dac4-4e0d-a2bf-ae2a4b0a4182",
+      "title": "基于联盟链的阴间金融体系重构：冥币数字化与智能合约兑换机制研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "law_social",
+      "created_at": "2026-03-03T16:26:16.525314Z",
+      "rating_count": 43,
+      "avg_score": 4.069767441860465,
+      "weighted_score": 4.080260290504346,
+      "comment_count": 0,
+      "author": {
+        "id": "fb9aef58-ddbc-451b-bf21-fa5cb35544cd",
+        "display_name": "洛雨竹",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "0a1a7bcd-b553-4f9f-8ad4-519aa07e1ac6",
+      "title": "向椅而生——论秒倒者的存在论特权与赛后沉默的形而上意义",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T16:23:13.277880Z",
+      "rating_count": 54,
+      "avg_score": 4.518518518518518,
+      "weighted_score": 4.501959878468343,
+      "comment_count": 0,
+      "author": {
+        "id": "3cfe0d03-bff2-46c6-a6ba-106186254f6e",
+        "display_name": "ankoleopas",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8c69fd1f-6be3-4ba0-bc61-4325cbd8e25c",
+      "title": "论地球Online女性老玩家之“桌面凭空取物”现象：一项基于高维存在主义与母体交互界面的思辨",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T16:22:30.104712Z",
+      "rating_count": 53,
+      "avg_score": 4.716981132075472,
+      "weighted_score": 4.665609866782607,
+      "comment_count": 0,
+      "author": {
+        "id": "fcf5bc1c-de7a-4dee-aee6-0257e2ea2763",
+        "display_name": "酱味大史",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "108d597d-c824-4f4b-8a5b-579123b13b29",
+      "title": "基于有限元法的人体排泄物三维模型模态分析与结构动力学研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T16:16:58.343657Z",
+      "rating_count": 38,
+      "avg_score": 4.657894736842105,
+      "weighted_score": 4.624675928602331,
+      "comment_count": 0,
+      "author": {
+        "id": "5a61b418-ebc1-44be-bfde-f08692fe1776",
+        "display_name": "超大威力炸屎",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f003f11f-426f-4a2d-896a-4076763857b9",
+      "title": "朝梗夕拾——珠穆朗玛峰加装电梯的可行性与商业化落地研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:13:25.160829Z",
+      "rating_count": 41,
+      "avg_score": 4.463414634146342,
+      "weighted_score": 4.432830536574315,
+      "comment_count": 0,
+      "author": {
+        "id": "6fa5f4ad-feea-4252-9d54-9904960dd5c3",
+        "display_name": "困了开灯",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "1fffae3d-8e6b-43b5-a1ed-583394654466",
+      "title": "绝对优势的数学表征与案例分析：基于《战争雷霆》中SU-30SM2、BMPT与直-10ME的拓扑动力系统与演化博弈论研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T16:11:16.832498Z",
+      "rating_count": 38,
+      "avg_score": 4.552631578947368,
+      "weighted_score": 4.527114952992575,
+      "comment_count": 0,
+      "author": {
+        "id": "50473a2c-c461-4e5a-92bd-50012055fccf",
+        "display_name": "洛杉矶大闸蟹",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b18713c2-d63c-45c1-a0cb-cc5cf3eceea9",
+      "title": "守望先锋末日铁拳进场时机与安娜垂直飞次数及能力的关联性研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:07:20.481063Z",
+      "rating_count": 39,
+      "avg_score": 3.948717948717949,
+      "weighted_score": 3.966945549349894,
+      "comment_count": 0,
+      "author": {
+        "id": "921d50bf-a447-4378-88b0-49083813dfad",
+        "display_name": "DR.z",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "0d99c3aa-d369-40cb-a687-1b0a00732592",
+      "title": "消逝的童年：洛克王国PVP机制复杂化与策略空间演化的形式化分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:01:05.980035Z",
+      "rating_count": 37,
+      "avg_score": 4.135135135135135,
+      "weighted_score": 4.140292826817388,
+      "comment_count": 0,
+      "author": {
+        "id": "24bdf945-895d-4ed7-9745-77803d3f0c6f",
+        "display_name": "小洛克",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "78a3789e-0f2c-413f-a19f-3f02b72b5566",
+      "title": "论 “薛定谔职业选手”Dank1ng 回归 TYLOO 战队后征战 2027 上海 Major 的贴纸获取可行性—— 基于概率模型的跨学科分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T16:01:01.271763Z",
+      "rating_count": 39,
+      "avg_score": 4.384615384615385,
+      "weighted_score": 4.3717074541117995,
+      "comment_count": 0,
+      "author": {
+        "id": "50c2249f-5dca-4fd3-b425-b122cff6cbea",
+        "display_name": "小DanKingKing的",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "39449246-becc-44a2-b3f7-e0d52d8b00a6",
+      "title": "对于涩涩与生产力的探讨 (第二版)",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T15:36:52.466757Z",
+      "rating_count": 51,
+      "avg_score": 4.235294117647059,
+      "weighted_score": 4.188464962209717,
+      "comment_count": 0,
+      "author": {
+        "id": "3ad81ac6-eb95-4fba-a9d2-4e5bfa59edba",
+        "display_name": "开不出花的树",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "5b7575de-64d0-435d-8742-a5ac12e8df97",
+      "title": "奈达的功能对等理论视域下的长句汉译研究 ——以“哈基米拿没路多”为例",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T15:08:41.647370Z",
+      "rating_count": 40,
+      "avg_score": 3.875,
+      "weighted_score": 3.8979468156440826,
+      "comment_count": 0,
+      "author": {
+        "id": "009b9c16-11ad-4c2f-bbcb-5fd0db2251ef",
+        "display_name": "Chew Shitfun",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "84f6b6a2-6ac7-4482-98e1-6e2d11c5cf84",
+      "title": "如何拉出冰淇淋形状完美的屎——拉屎动力学研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T15:08:06.100177Z",
+      "rating_count": 54,
+      "avg_score": 4.666666666666667,
+      "weighted_score": 4.642310755661326,
+      "comment_count": 0,
+      "author": {
+        "id": "62660ac0-5242-4efc-b473-89ee6d3f62d6",
+        "display_name": "DeadlyPig",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "1b6d96cd-05c5-452d-8d65-edb7eb980635",
+      "title": "虚拟角色附属特征对玩家游玩愉悦度的实证分析 —— 基于尾巴尺寸与毛绒质感的《绝区零》样本研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T15:06:27.701231Z",
+      "rating_count": 36,
+      "avg_score": 4.305555555555555,
+      "weighted_score": 4.297736232633219,
+      "comment_count": 0,
+      "author": {
+        "id": "1f0c738a-c014-4a08-9394-9664f25a1a89",
+        "display_name": "悲伤山药蛋",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8ed7b649-042d-4bb1-b7a9-b5d6923fb1d8",
+      "title": "基于提示工程的 AI 猫娘人格生成——最优提 示词策略研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:55:11.334521Z",
+      "rating_count": 36,
+      "avg_score": 4.194444444444445,
+      "weighted_score": 4.195172130069117,
+      "comment_count": 0,
+      "author": {
+        "id": "83316702-14f7-4d40-9d4f-d3334f4e1826",
+        "display_name": "锦衣夜行",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a1d9b2ff-4816-4297-a526-bec647acd0ca",
+      "title": "论古代士子的性压抑——从《西厢记》中张生的形象谈开去",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T14:52:58.178927Z",
+      "rating_count": 53,
+      "avg_score": 4.679245283018868,
+      "weighted_score": 4.653780590583849,
+      "comment_count": 0,
+      "author": {
+        "id": "24d27f32-c3ed-4d30-9a9d-6eb0733b01d0",
+        "display_name": "chow",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "21a3fdf4-dfc5-4439-8697-230abdaaaf97",
+      "title": "论防御屏障的六边形几何收敛——从《葬送的芙莉莲》到星舰隔热瓦的跨虚构比较研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T14:48:21.392202Z",
+      "rating_count": 44,
+      "avg_score": 4.840909090909091,
+      "weighted_score": 4.786629842561262,
+      "comment_count": 0,
+      "author": {
+        "id": "131b923d-a547-45a5-b91d-4b4d04d06188",
+        "display_name": "Infinite Shit",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "baf24a60-68c3-4a38-b6d0-1bab89aee17f",
+      "title": "乐邦·詹士《教父》扉页悖论：关于“永恒起始”的认知负载与量子心理学分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:46:47.393174Z",
+      "rating_count": 49,
+      "avg_score": 4.346938775510204,
+      "weighted_score": 4.33868678985953,
+      "comment_count": 0,
+      "author": {
+        "id": "42423755-36c6-4576-8e97-fe4e1a63769b",
+        "display_name": "构思者武昌魚",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "279ca797-01e5-4270-b60d-758a1a3369d6",
+      "title": "21世纪南非LGBTQ群体的“钟摆式”发展",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T14:34:27.976770Z",
+      "rating_count": 30,
+      "avg_score": 4.1,
+      "weighted_score": 4.311761837371975,
+      "comment_count": 0,
+      "author": {
+        "id": "fc3a76f0-df45-45ee-bf47-13f11772f2b8",
+        "display_name": "沾屎裤腿",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "d0a3acca-c8c8-470a-be32-80735b7ea243",
+      "title": "基于计划谬误与时间动机理论探究关于“明天开始一定学习”假说的多元证伪研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T14:33:53.707531Z",
+      "rating_count": 30,
+      "avg_score": 4.033333333333333,
+      "weighted_score": 4.019116033521736,
+      "comment_count": 0,
+      "author": {
+        "id": "78817760-bc1d-465d-b88f-c59d62f43308",
+        "display_name": "白兰宁",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "6b2c72b4-5a7e-4d67-8a59-05a8d5377a4f",
+      "title": "地府通货膨胀模型的实证分析 与可持续祭祀行为的跨界干预研究 ——以“情感本位”替代“信用法币”的路径探索",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:26:40.614306Z",
+      "rating_count": 65,
+      "avg_score": 4.6461538461538465,
+      "weighted_score": 4.615328985949932,
+      "comment_count": 0,
+      "author": {
+        "id": "b4efdc3d-e447-46f5-b928-1e825496cbb2",
+        "display_name": "老嗷嗷高",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f6ad6ad7-ac4e-4a09-9298-170927453bbe",
+      "title": "职场非线性劳动力再生产（NLR）对宏观经济增长的内生性贡献研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:25:54.969486Z",
+      "rating_count": 35,
+      "avg_score": 3.857142857142857,
+      "weighted_score": 3.8845187650709354,
+      "comment_count": 0,
+      "author": {
+        "id": "c5c134cf-ea7a-4f40-a9d1-480376f3e169",
+        "display_name": "摸鱼界的苏格拉底",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b65b8292-47a9-45ae-839f-8785227c00da",
+      "title": "谁更易结婚、谁更易出轨？—— 风险社会与亲密关系祛魅下的婚恋行为跨国比较研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:09:43.557130Z",
+      "rating_count": 54,
+      "avg_score": 4.666666666666667,
+      "weighted_score": 4.642310755661326,
+      "comment_count": 0,
+      "author": {
+        "id": "2caa2dc5-3bd1-411d-afa9-5110e82a2b07",
+        "display_name": "Eugeniee",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a75dca88-a548-494a-b0ca-78b5821bfe12",
+      "title": "蚊子为什么总在耳边飞？——论睡眠战争中的声东击西策略",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:08:45.207752Z",
+      "rating_count": 39,
+      "avg_score": 4.051282051282051,
+      "weighted_score": 4.039310074943794,
+      "comment_count": 0,
+      "author": {
+        "id": "0388fba7-4a72-4bc7-8a28-cc12cc35cc52",
+        "display_name": " 把屎要用力",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "930e8c76-5f7d-4057-956e-6608fdc50b30",
+      "title": "论“关掉闹钟后的五分钟”：关于生物钟在多维空间中的奇异性弯曲与时间膨胀实证研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T14:03:10.914258Z",
+      "rating_count": 55,
+      "avg_score": 4.381818181818182,
+      "weighted_score": 4.372615742632682,
+      "comment_count": 0,
+      "author": {
+        "id": "2db6b775-d260-4228-9fd0-ff58ba983c40",
+        "display_name": "Shit_Producer",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f0ba1f97-a8b3-47a0-8d16-ed74c5e4c341",
+      "title": "游戏本高负载下对百醇风味改良的实证研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T13:33:32.074640Z",
+      "rating_count": 42,
+      "avg_score": 4.5476190476190474,
+      "weighted_score": 4.52470473494879,
+      "comment_count": 0,
+      "author": {
+        "id": "113e0aed-63cc-4234-9edb-23ce80d386c5",
+        "display_name": "草莓塔",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "9aab39aa-8b1c-43b8-a3b8-460ce7f5905b",
+      "title": "番茄炒蛋烹饪体系中外钙质矿化层剥离的必要性及其生物力学机理研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T13:25:33.911939Z",
+      "rating_count": 33,
+      "avg_score": 4.454545454545454,
+      "weighted_score": 4.433658696463765,
+      "comment_count": 0,
+      "author": {
+        "id": "63964474-635f-401e-b17b-5912576108be",
+        "display_name": "倒立螺旋拉屎大王",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "bdc2d82a-ccd8-441c-95cd-a81ca2f79425",
+      "title": "性生活不和谐应当成为法定离婚理由，且无需举证  ——论肉体契约在婚姻法中的优先赔偿原则",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T13:24:46.173185Z",
+      "rating_count": 71,
+      "avg_score": 4.619718309859155,
+      "weighted_score": 4.637310186752793,
+      "comment_count": 0,
+      "author": {
+        "id": "28c784b6-a4a6-47bf-b3a0-b1a2182f4685",
+        "display_name": "胡灏苒博士",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "9a13a1c8-15f3-46ca-b12c-a0b4e833d3e2",
+      "title": "课题组权力微生态下的无效管理表演：高频组会、严苛考勤、隐性打压与资源紧缩的行为耦合研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T13:07:51.359420Z",
+      "rating_count": 46,
+      "avg_score": 4.565217391304348,
+      "weighted_score": 4.543096185157052,
+      "comment_count": 0,
+      "author": {
+        "id": "3c38b6b8-93ec-4908-9185-f572bf09d7dd",
+        "display_name": "大楼微塌",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "fea41d74-be47-4691-baf6-6a0aebea32ec",
+      "title": "为什么蚊子总咬我不咬别人：一种微观歧视现象学分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T13:07:33.099464Z",
+      "rating_count": 39,
+      "avg_score": 3.871794871794872,
+      "weighted_score": 3.895516977921323,
+      "comment_count": 0,
+      "author": {
+        "id": "190ad1b0-7334-48b2-871c-d23a03f60952",
+        "display_name": "Yolo",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b08d1952-ea58-4ca0-a846-30452536c0c8",
+      "title": "如何在工位原神启动且不被老板逮捕 ——基于人眼视觉与听力感知系统的实时感知方案",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T12:57:17.037711Z",
+      "rating_count": 35,
+      "avg_score": 4.542857142857143,
+      "weighted_score": 4.516097712439357,
+      "comment_count": 0,
+      "author": {
+        "id": "111b24ca-86b8-4a2c-ab15-f131de5902ef",
+        "display_name": "原神启动",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "b4635935-f7e6-4042-9f39-399931fef260",
+      "title": "关于高中时期管理严格程度对大学时期PTSD的影响——以竖火中学为例",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T12:45:28.097038Z",
+      "rating_count": 43,
+      "avg_score": 4.372093023255814,
+      "weighted_score": 4.361124197232512,
+      "comment_count": 0,
+      "author": {
+        "id": "add1c09d-c0ac-44e5-8fc8-5045b6e94e31",
+        "display_name": "进厂喝冰红茶",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ae17f337-a3d9-48ff-83d1-2e1cc4c24847",
+      "title": "本命年红色内裤对人体运势场屏蔽效能的跨学科 研究：基于纺织光子学、经皮传导",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T12:29:06.622537Z",
+      "rating_count": 30,
+      "avg_score": 4.433333333333334,
+      "weighted_score": 4.505879635405029,
+      "comment_count": 0,
+      "author": {
+        "id": "88b68b06-7fd1-478b-96a8-82baefa58c2a",
+        "display_name": "史珍香",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "0b12de62-4bda-4d02-950d-b95880b0113a",
+      "title": "谁才是可乐界的唯一正统？——基于徐静雨评说与多温域盲测的可口百事对比研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "S.H.I.T社区治理1.0",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T12:20:59.297132Z",
+      "rating_count": 30,
+      "avg_score": 4.5,
+      "weighted_score": 4.217642756057962,
+      "comment_count": 0,
+      "author": {
+        "id": "f2f25690-a612-43ed-b65b-e1d452060040",
+        "display_name": "化粪池畅游选手",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ce95983f-2180-41b3-8a56-d00e5478a123",
+      "title": "男性程序员女性化程度对于项目效率和成果的影响",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T08:59:13.442759Z",
+      "rating_count": 41,
+      "avg_score": 4.170731707317073,
+      "weighted_score": 4.172993478924899,
+      "comment_count": 0,
+      "author": {
+        "id": "a7cb76e6-dd97-499f-af45-c264aecb4259",
+        "display_name": "Re.床",
+        "avatar_url": null
       }
     }
   ]
