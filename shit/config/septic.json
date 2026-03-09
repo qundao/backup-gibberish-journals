@@ -1,6 +1,6 @@
 {
-  "update": "2026-03-09T01:08:01+0000",
-  "count": 103,
+  "update": "2026-03-09T07:49:10+0000",
+  "count": 107,
   "data": [
     {
       "discipline": "law_social",
@@ -2014,6 +2014,44 @@
       }
     },
     {
+      "id": "61c64fdf-b1f2-45e8-829e-2e20a5bd9264",
+      "title": "符号困境与情感自救：基于2025年度抖音热梗的当代青年情感困境浅析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "law_social",
+      "created_at": "2026-03-03T14:42:48.652682Z",
+      "rating_count": 39,
+      "avg_score": 4.256410256410256,
+      "weighted_score": 4.234432026163306,
+      "comment_count": 0,
+      "author": {
+        "id": "b1784ad5-d99f-4e40-ae03-4d7debcc2283",
+        "display_name": "冈门·旋转拉式",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "aa8179ea-273b-4d3a-a25b-20ac55360915",
+      "title": "《原神》岩王帝君钟离——山岩之固（E技能）与天星（Q技能）的材料结构预测 以及矿采能力评估",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T14:38:47.229884Z",
+      "rating_count": 44,
+      "avg_score": 4.613636363636363,
+      "weighted_score": 4.587483256865863,
+      "comment_count": 0,
+      "author": {
+        "id": "c71995d0-b287-481a-aac7-ddc1246acce4",
+        "display_name": "提瓦特材料战略科学家",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "279ca797-01e5-4270-b60d-758a1a3369d6",
       "title": "21世纪南非LGBTQ群体的“钟摆式”发展",
       "tag": "meme",
@@ -2048,6 +2086,25 @@
       "author": {
         "id": "78817760-bc1d-465d-b88f-c59d62f43308",
         "display_name": "白兰宁",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a54b4c87-e295-42c0-8940-355ce67b8c59",
+      "title": "论繁衍模式对文明底层架构的塑造从另一种角度思考我们的文明",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:32:40.866498Z",
+      "rating_count": 34,
+      "avg_score": 4.205882352941177,
+      "weighted_score": 4.205721974937718,
+      "comment_count": 0,
+      "author": {
+        "id": "58e3611a-da31-4cca-a818-060777dd3527",
+        "display_name": "月半观星",
         "avatar_url": null
       }
     },
@@ -2257,6 +2314,25 @@
       "author": {
         "id": "111b24ca-86b8-4a2c-ab15-f131de5902ef",
         "display_name": "原神启动",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8259ae2c-a907-42a9-b920-929e4c862432",
+      "title": "寒暑假两周加时：一场没结果的 SCI 实验赌局",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T12:55:44.394591Z",
+      "rating_count": 30,
+      "avg_score": 3.8666666666666667,
+      "weighted_score": 4.145095170705308,
+      "comment_count": 0,
+      "author": {
+        "id": "203031d4-ab11-4e61-9aae-d5c16a013470",
+        "display_name": "屎到临头 还想搅便",
         "avatar_url": null
       }
     },
