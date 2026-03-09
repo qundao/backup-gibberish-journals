@@ -1,0 +1,39 @@
+name: Run
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process:
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: pip install -r requirements.txt >/dev/null 2>&1
+
+      - name: Run shit
+        # if: github.event.schedule == '0 12 * * 1'
+        run: bash run.sh shit
+        # run: bash run.sh rubbish
+        # run: bash run.sh joker
+
+      - name: Git auto commit
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_message: Automated update by github action
+          # commit_options: '--no-verify --signoff'
+          # file_pattern: "*.pdf"
