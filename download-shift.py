@@ -1,49 +1,25 @@
+"""
+https://www.shift-journal.org/library
+"""
+
 import argparse
 import json
 import logging
-import re
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urljoin
 
-from fake_useragent import UserAgent
 from dl_utils import download_pdf, request_url
+from fake_useragent import UserAgent
 
 KEY_ID = "id"
-BASE_URL = "https://rubbish-journal.org/"
-LIST_URL = "https://rubbish-journal.org/en/articles"
-# PDF_URL = "https://rubbish-journal.org/api/uploads/1772800179526.pdf"
+LIST_URL = "https://zcpgslkimjjnmwatmkje.supabase.co/rest/v1/articles"
+API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpjcGdzbGtpbWpqbm13YXRta2plIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI4NjQ3MzcsImV4cCI6MjA4ODQ0MDczN30.uIwglLgrQEp20VyGy5IhOZK9y2IrE5oG9DFGBgOeNpk"
+DOMAIN = "zcpgslkimjjnmwatmkje.supabase.co"
 
 
-def _parse_str(text):
-    text2 = text.replace('\\"', '"').replace("\\\\", "\\")
-    try:
-        return json.loads(text2)
-    except:
-        return None
-
-
-def parse_list_page(text: str) -> list[dict]:
-    logging.info("Parse text")
-    pattern1 = r"<script>self\.__next_f\.push\((.+?)\)</script>"
-    pattern2 = r'\{\\"id\\":\\".*?\\"filePath\\".*?\}'
-    results = re.findall(pattern1, text)
-    candidates = [v for v in results if '\\"articles\\":[' in v]
-    logging.debug(f"candidates = {len(candidates)}")
-    articles = []
-    for value in candidates:
-        items = re.findall(pattern2, value)
-        articles.extend(items)
-
-    logging.debug(f"articles = {len(articles)}")
-    output = [_parse_str(item) for item in articles]
-    output = [item for item in _parse_str if item]
-    return output
-
-
-def process_config(save_file, force):
+def process_config(save_file, force=False, page_limit=-1):
     ua = UserAgent(platforms=["desktop"])
-    headers = {"User-Agent": ua.random}
+    headers = {"User-Agent": ua.random, "apikey": API_KEY}
     config = {}
     save_path = Path(save_file)
     if save_path.exists():
@@ -51,11 +27,9 @@ def process_config(save_file, force):
             config = json.load(f)
 
     url = LIST_URL
-    logging.info(f"Request = {url}")
-    html_text = request_url(url, headers)
-    if not html_text:
+    data_list = request_url(url, headers, is_json=True)
+    if not data_list:
         return
-    data_list = parse_list_page(html_text)
 
     data_list2 = list({d[KEY_ID]: d for d in data_list}.values())
     logging.info(f"New data = {len(data_list2)}")
@@ -68,7 +42,7 @@ def process_config(save_file, force):
         logging.info("Flush data")
         item_list = data_list2
 
-    item_list = sorted(item_list, key=lambda x: x["doi"], reverse=True)
+    item_list = sorted(item_list, key=lambda x: x[KEY_ID])
     now = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%S%z")
     save_data = {
         "update": now,
@@ -96,22 +70,25 @@ def process_pdf(config_file, output_dir, limit):
         config_data = json.load(f)
 
     for item in config_data["data"]:
-        file_path = item["filePath"]
-        if "api/uploads" not in file_path:
-            logging.warning(f"Invalid file path = {file_path}")
-            continue
-
         file_id = item[KEY_ID]
         sub_dir = file_id[:2]
-        suffix = file_path.split("?")[0].split(".")[-1].lower()
-        if suffix not in ['doc', 'docx', 'pdf']:
+        if list(Path(output_dir, sub_dir).glob(f"{file_id}*")):
+            continue
+
+        url = item["file_url"]
+        if not url.startswith("http") or DOMAIN not in url:
+            logging.info(f"Ignore url = {url}")
+            continue
+
+        suffix = url.split("?")[0].split(".")[-1].lower()
+        if suffix not in ["doc", "docx", "pdf"]:
             logging.warning(f"Error suffix = {suffix}")
             continue
 
         pdf_file = Path(output_dir, sub_dir, f"{file_id}.{suffix}")
         if pdf_file.exists():
             continue
-        url = urljoin(BASE_URL, file_path)
+
         download_pdf(url, pdf_file, headers)
         count += 1
         if limit > 0 and count > limit:
@@ -128,10 +105,11 @@ if __name__ == "__main__":
     parser.add_argument("--config", type=str, default="config.json")
     parser.add_argument("--pdf", type=str, default="pdf")
     parser.add_argument("--pdf-limit", type=int, default=-1)
+    parser.add_argument("--page-limit", type=int, default=-1)
     parser.add_argument("--force", action="store_true")
 
     args = parser.parse_args()
     logging.info(f"args = {args}")
 
-    process_config(args.config, args.force)
+    # process_config(args.config, args.force, args.page_limit)
     process_pdf(args.config, args.pdf, args.pdf_limit)

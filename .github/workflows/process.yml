@@ -8,6 +8,7 @@ on:
     - cron: "0 12 * * 1"
     - cron: "0 12 * * 2"
     - cron: "0 12 * * 3"
+    - cron: "0 12 * * 4"
   workflow_dispatch:
 
 jobs:
@@ -40,6 +41,10 @@ jobs:
       - name: Run joker
         if: github.event.schedule == '0 12 * * 3'
         run: bash run.sh joker
+
+      - name: Run shift
+        if: github.event.schedule == '0 12 * * 4'
+        run: bash run.sh shift
 
       - name: Git auto commit
         uses: stefanzweifel/git-auto-commit-action@v7
