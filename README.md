@@ -1,7 +1,7 @@
 # Gibberish Journal Archives
 
 > [!NOTE]
-> Update at: 2026-03-11
+> Update at: 2026-03-12
 
 - [x] [:link: SHIT 构石](https://shitjournal.org/) 📝 papers: 221
 - [x] [:link: Rubbish](https://rubbish-journal.org/) 📝 papers: 125
