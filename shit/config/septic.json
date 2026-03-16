@@ -1,6 +1,6 @@
 {
-  "update": "2026-03-09T12:31:38+0000",
-  "count": 109,
+  "update": "2026-03-16T12:41:24+0000",
+  "count": 124,
   "data": [
     {
       "discipline": "law_social",
@@ -2109,6 +2109,44 @@
       }
     },
     {
+      "id": "43b5cbf1-ec76-4715-8950-53ad3da96e95",
+      "title": "论繁衍模式对文明底层架构的塑造从另一种角度思考我们的文明",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:28:01.018216Z",
+      "rating_count": 40,
+      "avg_score": 4.3,
+      "weighted_score": 4.293295652853385,
+      "comment_count": 0,
+      "author": {
+        "id": "58e3611a-da31-4cca-a818-060777dd3527",
+        "display_name": "月半观星",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "4b9a2bc7-f9b6-4bef-a8ec-dccf94003fd8",
+      "title": "重口味抽象的社交突围：抖音大粪视频分享的社会行为学解构",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T14:26:54.938164Z",
+      "rating_count": 43,
+      "avg_score": 4.325581395348837,
+      "weighted_score": 4.317645936362947,
+      "comment_count": 0,
+      "author": {
+        "id": "f07fa3bd-4704-4eb7-b1eb-a384c4ecbf9f",
+        "display_name": "莲湖区拉屎大王",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "6b2c72b4-5a7e-4d67-8a59-05a8d5377a4f",
       "title": "地府通货膨胀模型的实证分析 与可持续祭祀行为的跨界干预研究 ——以“情感本位”替代“信用法币”的路径探索",
       "tag": "meme",
@@ -2143,6 +2181,25 @@
       "author": {
         "id": "c5c134cf-ea7a-4f40-a9d1-480376f3e169",
         "display_name": "摸鱼界的苏格拉底",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "8d8c5051-b0dd-4c56-8e74-7cc921a72fbd",
+      "title": "如厕忘记带纸的尴尬处境对后续生活影响：一项基于个案的研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T14:10:41.512832Z",
+      "rating_count": 39,
+      "avg_score": 4.153846153846154,
+      "weighted_score": 4.157421739826084,
+      "comment_count": 0,
+      "author": {
+        "id": "0298742b-01e9-4bbd-a52a-b1bbfc34693f",
+        "display_name": "每天都要拉翔",
         "avatar_url": null
       }
     },
@@ -2204,6 +2261,25 @@
       }
     },
     {
+      "id": "ad1570af-5513-43fa-aafc-119b2287ac13",
+      "title": "观测即归零：从薛定谔的猫到黄金体验镇魂曲——拼多多砍一刀如何让量子力学与替身能力在最后一刀上达成共识",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T14:03:12.651207Z",
+      "rating_count": 37,
+      "avg_score": 4.324324324324325,
+      "weighted_score": 4.315292826817389,
+      "comment_count": 0,
+      "author": {
+        "id": "2474bddb-aa6f-4280-b02c-69dece4884ff",
+        "display_name": "sweet",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "930e8c76-5f7d-4057-956e-6608fdc50b30",
       "title": "论“关掉闹钟后的五分钟”：关于生物钟在多维空间中的奇异性弯曲与时间膨胀实证研究",
       "tag": "meme",
@@ -2223,6 +2299,44 @@
       }
     },
     {
+      "id": "51cbf247-d3fa-433e-b8b0-126fef8d1903",
+      "title": "信息熵视角下抖音及小红书平台的内容分布与演化特征——以“我的刀盾”为例",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T13:59:28.065747Z",
+      "rating_count": 32,
+      "avg_score": 4.0625,
+      "weighted_score": 4.074620373505587,
+      "comment_count": 0,
+      "author": {
+        "id": "286e59ab-0f69-444a-aa86-36525f4f37b4",
+        "display_name": "思路零",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "73169cf1-2a92-41c0-a397-d98f3db11f32",
+      "title": "论移动场景下听觉沉浸的劲爽阈值：坐车听歌与走路听歌的对比研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T13:36:55.325111Z",
+      "rating_count": 41,
+      "avg_score": 3.926829268292683,
+      "weighted_score": 3.9457207516521717,
+      "comment_count": 0,
+      "author": {
+        "id": "7da8355a-7a35-4993-8a9c-2404f86dcbde",
+        "display_name": "ggboy",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "f0ba1f97-a8b3-47a0-8d16-ed74c5e4c341",
       "title": "游戏本高负载下对百醇风味改良的实证研究",
       "tag": "meme",
@@ -2238,6 +2352,25 @@
       "author": {
         "id": "113e0aed-63cc-4234-9edb-23ce80d386c5",
         "display_name": "草莓塔",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "3d2ec8a7-f56f-40c6-a699-f0d3ba3173d5",
+      "title": "SHITNet：一种面向生物源性非规则堆积形态的结构感知视觉框架",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-03-03T13:32:13.418776Z",
+      "rating_count": 41,
+      "avg_score": 4.463414634146342,
+      "weighted_score": 4.445720751652172,
+      "comment_count": 0,
+      "author": {
+        "id": "15239817-d459-440a-9675-9e94f719c1e5",
+        "display_name": "Sky_Shit",
         "avatar_url": null
       }
     },
@@ -2413,6 +2546,82 @@
       }
     },
     {
+      "id": "63edcdcc-7b13-4c01-b86b-e20ea62ab664",
+      "title": "基于拓扑学焦虑与量子纠缠态的亲密关系动力学：一项关于\"博士对象\"能指滑动与承诺延迟的田野研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T11:56:42.412577Z",
+      "rating_count": 30,
+      "avg_score": 3.933333333333333,
+      "weighted_score": 4.122342614539109,
+      "comment_count": 0,
+      "author": {
+        "id": "913c445d-fa09-4f72-bf74-4cbc1d1e718f",
+        "display_name": "卑微主研PHDog",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "0092f0fc-68d0-49c4-b087-5619c4c68403",
+      "title": "多组学融合的料理学：把转录组、代谢组和蛋白组一起炖，能不能炖出因果味",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "medical",
+      "created_at": "2026-03-03T11:32:32.988911Z",
+      "rating_count": 31,
+      "avg_score": 4.129032258064516,
+      "weighted_score": 4.152928268173886,
+      "comment_count": 0,
+      "author": {
+        "id": "1db0e8d8-dd85-4f63-a573-a6c41c9740dc",
+        "display_name": "Arando",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "a4893cd9-0a22-4528-96dc-7e472274aa46",
+      "title": "变质香蕉比正常香蕉更通便的机制研究与临床观察",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "medical",
+      "created_at": "2026-03-03T10:55:44.052993Z",
+      "rating_count": 33,
+      "avg_score": 3.8181818181818183,
+      "weighted_score": 3.6957958606045502,
+      "comment_count": 0,
+      "author": {
+        "id": "2d4168d6-c3f4-4c3b-9f1a-35c1ec28caea",
+        "display_name": "虫且蘸酱裹厕纸",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "ad2ffaed-5972-4445-92fb-66afdf221386",
+      "title": "冥界跨境贸易体系与超自然关税治理机制研究——基于东方地府与西方冥界双边贸易的范式分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T10:35:55.986950Z",
+      "rating_count": 30,
+      "avg_score": 4.0,
+      "weighted_score": 3.951464134086943,
+      "comment_count": 0,
+      "author": {
+        "id": "9ac25c10-20ef-4248-b6f6-72e74af17f05",
+        "display_name": "昭昭",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "d7fb1811-0d70-4980-9ac6-1e86bfd88ddf",
       "title": "网上说说得了，现实中谁不想在《SHIT》里投稿一篇 ——基于当代青年整活心理学的学术垃圾发表行为研究",
       "tag": "meme",
@@ -2432,6 +2641,44 @@
       }
     },
     {
+      "id": "84836806-9f25-435d-9df0-0a50d6bedd6f",
+      "title": "隔夜蒜薹与地三鲜口感“夯”性探究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "interdisciplinary",
+      "created_at": "2026-03-03T09:30:49.646647Z",
+      "rating_count": 30,
+      "avg_score": 3.8,
+      "weighted_score": 3.944530438956506,
+      "comment_count": 0,
+      "author": {
+        "id": "4dc90ae3-ab5e-4054-a09b-6e008c4e629a",
+        "display_name": "巨能拉",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "e7cf0955-5d83-47be-8f11-4651ad5b052a",
+      "title": "何以忘却？—— 孟婆汤化学成分分析",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "science",
+      "created_at": "2026-03-03T09:26:39.625872Z",
+      "rating_count": 30,
+      "avg_score": 3.933333333333333,
+      "weighted_score": 3.951464134086943,
+      "comment_count": 0,
+      "author": {
+        "id": "688f9639-bf40-4794-a7a9-534b4957053c",
+        "display_name": "桥边红药",
+        "avatar_url": null
+      }
+    },
+    {
       "id": "ce95983f-2180-41b3-8a56-d00e5478a123",
       "title": "男性程序员女性化程度对于项目效率和成果的影响",
       "tag": "meme",
@@ -2447,6 +2694,44 @@
       "author": {
         "id": "a7cb76e6-dd97-499f-af45-c264aecb4259",
         "display_name": "Re.床",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "087ecf46-6682-4715-aaad-06eeab1b1e72",
+      "title": "硕博英语课程开设的必要性研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "humanities",
+      "created_at": "2026-03-03T08:52:02.812636Z",
+      "rating_count": 30,
+      "avg_score": 4.0,
+      "weighted_score": 4.60195217878259,
+      "comment_count": 0,
+      "author": {
+        "id": "12740084-d7fc-4358-8477-642a9679d95c",
+        "display_name": "Ovo粪坑监控ovO",
+        "avatar_url": null
+      }
+    },
+    {
+      "id": "f5ed58b9-40f7-4798-b22c-abf4c28778c4",
+      "title": "如厕行为中排泄与未排泄量子叠加态及观测坍缩效应研究",
+      "tag": "meme",
+      "zones": "septic",
+      "status": "passed",
+      "topic": "nan",
+      "discipline": "engineering",
+      "created_at": "2026-02-22T14:27:59.999401Z",
+      "rating_count": 30,
+      "avg_score": 4.133333333333333,
+      "weighted_score": 4.152928268173886,
+      "comment_count": 0,
+      "author": {
+        "id": "63e8b487-0c06-42a0-8835-ab58f399a4a1",
+        "display_name": "Shabo Cheng",
         "avatar_url": null
       }
     }
