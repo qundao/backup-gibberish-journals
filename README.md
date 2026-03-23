@@ -1,9 +1,9 @@
 # Gibberish Journal Archives
 
 > [!NOTE]
-> Update at: 2026-03-19
+> Update at: 2026-03-23
 
-- [x] [:link: SHIT 构石](https://shitjournal.org/) 📝 papers: 230
+- [x] [:link: SHIT 构石](https://shitjournal.org/) 📝 papers: 232
 - [x] [:link: Rubbish](https://rubbish-journal.org/) 📝 papers: 125
 - [x] [:link: Joker of Academics](https://jokerofacademics.com/) 📝 papers: 301
 - [x] [:link: Shift 刊见](https://www.shift-journal.org/) 📝 papers: 32
